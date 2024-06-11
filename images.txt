@@ -1,3 +1,4 @@
 requarks/wiki:2.5.301
+requarks/wiki:2.5.303
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 
